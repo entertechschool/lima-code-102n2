@@ -3,7 +3,7 @@
 ¡Bienvenido al Code 102! Nos concentraremos principalmente en aprender cosas nuevas.
 
 ## Grabaciones de la clase
-- [Link de zoom]
+- [Link de zoom](https://us06web.zoom.us/rec/share/p24P1O18IbRLtUVtmf_Nx-GWF0jI3sC1n5TfZZ7nnQCXxxpz5xt_TFMW_M26ejJr.gbAHOxdL0CT3475U)
 - Código de Acceso: Solicitar al Instructor.
 
 ## Objetivos de aprendizaje
