@@ -5,7 +5,7 @@
 > — Steve Jobs
 
 ## Grabaciones de la clase
-- [Link de zoom]
+- [Link de zoom](https://us06web.zoom.us/rec/share/KCtN0PI1avsvWssgllH3gVHwcTaFY-ujRYrruL3MO-C6Z75A21xjVTwfUFoWNuos.bC1lpz0hYw7izPGW)
 - Código de Acceso: Solicitar al Instructor.
 
 ## Objetivos de aprendizaje
