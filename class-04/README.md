@@ -1,7 +1,7 @@
 # Estructurar páginas web con HTML
 
 ## Grabaciones de la clase
-- [Link de zoom]
+- [Link de zoom](https://us06web.zoom.us/rec/share/lmYmOZrci0RB-DSkpWeCBH2keR8ZZfFn48LVlyFm8TCQRbhWNe33uNXKP0N3UhAY.S-3BQqX26lRyi1B-)
 - Código de Acceso: Solicitar al Instructor.
 
 ## Objetivos de aprendizaje
