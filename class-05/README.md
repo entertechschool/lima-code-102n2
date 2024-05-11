@@ -1,7 +1,7 @@
 # Diseñar páginas web con CSS
 
 ## Grabaciones de la clase
-- [Link de zoom]
+- [Link de zoom](https://us06web.zoom.us/rec/share/X-luas_NNhIhH1lP-pJPQG1lzo8MrJ8Gz46JRL-6wx7ysh9hOM4XNBx1nL1dJojl.EFzSX4UUL6kHTujl)
 - Código de Acceso: Solicitar al Instructor.
 
 ## Objetivos de aprendizaje
