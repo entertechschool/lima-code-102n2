@@ -2,6 +2,7 @@
 
 ## Grabaciones de la clase
 - [Link de zoom](https://us06web.zoom.us/rec/share/KXY4wDb2o7vpFsOe8vZb67IpDyjwxOEsTkDwQXXhU1W28RVbCgJ4p_X8UmJzGSis.eCCngJGC4BCCYYZO)
+- [Clase de refuerzo del 17/mayo] (https://us06web.zoom.us/rec/share/0rvqYUf0b4dxAwoxzl2fbBwtxWvr--kKVGb4QrAdsgqq7Ox8QoWZ5nfrmPBcPbSt.qdejy9t4i2JJ7e4G)
 - Código de Acceso: Solicitar al Instructor.
 
 ## Objetivos de aprendizaje
