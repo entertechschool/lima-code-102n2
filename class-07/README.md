@@ -1,7 +1,7 @@
 # Programación con JavaScript
 
 ## Grabaciones de la clase
-- [Link de zoom]
+- [Link de zoom](https://us06web.zoom.us/rec/share/Nab8j6dmMnwOMytU0JSFCtuZ3Cg4HGFFMGVGXy4O3EnQEeAFr88DsJvDs4yk8IuC.gdzaXtPC52dXb-5Y)
 - Código de Acceso: Solicitar al Instructor.
 
 ## Objetivos de aprendizaje
