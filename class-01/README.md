@@ -3,7 +3,8 @@
 ¡Bienvenido al Code 102! Nos concentraremos principalmente en aprender cosas nuevas.
 
 ## Grabaciones de la clase
-- [Link de zoom](https://us06web.zoom.us/rec/share/p24P1O18IbRLtUVtmf_Nx-GWF0jI3sC1n5TfZZ7nnQCXxxpz5xt_TFMW_M26ejJr.gbAHOxdL0CT3475U)
+- [ponencia class01(2024-06-03)](https://us06web.zoom.us/rec/share/p24P1O18IbRLtUVtmf_Nx-GWF0jI3sC1n5TfZZ7nnQCXxxpz5xt_TFMW_M26ejJr.gbAHOxdL0CT3475U)
+- [taller class01(2024-06-04)](https://us06web.zoom.us/rec/share/192rKTB119Nzp-z05UYrzwvy1OdLS0fNorKOpRAl4wN3IgnQGv69Ce8QeXp0iUEp.K2BhxIHg-NMxw5RL) 
 - Código de Acceso: Solicitar al Instructor.
 
 ## Objetivos de aprendizaje
